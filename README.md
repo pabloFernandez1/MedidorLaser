@@ -16,7 +16,6 @@ Se requiere tener instalado en la maquina cualquier version de Matlab para ejecu
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Pablo Felipe Fernandez** - *Trabajo Inicial - Documentacion* 
 
